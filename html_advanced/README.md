@@ -30,3 +30,4 @@ Open the index.html file in your browser.
  Author
 Morsal Hakim
 GitHub: Hakim-morsal2244
+https://github.com/Hakim-morsal2244/alu-web-development/blob/main/html_advanced/Screenshot%202025-01-17%20131517.png?raw=true
